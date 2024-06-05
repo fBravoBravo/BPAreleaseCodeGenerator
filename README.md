@@ -4,7 +4,7 @@ Generates Release code generators for the BPA team.
 
 ## How to install it
 
-Clone the repository, navigate to the folder and run `npm -g install`, that will install the package globally.
+Clone the repository, navigate to the folder and run `sudo npm -g install`, that will install the package globally.
 
 ## How to run it
 
