@@ -1,0 +1,14 @@
+{
+  "name": "releasecodegenerator",
+  "version": "1.0.0",
+  "description": "generates the release code for the BPA team given a commit hash as an input",
+  "main": "releaseGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paco de BPA",
+  "license": "ISC",
+  "bin": {
+    "releaseCodeGenerator": "releaseGenerator.js"
+  }
+}
